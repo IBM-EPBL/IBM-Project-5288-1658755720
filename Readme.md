@@ -11,4 +11,4 @@ Progress 📊
 | Project Design Phase I | Completed |
 | Project Design Phase II | Completed |
 | Project Planning Phase  | Completed |
-| Project Developement Phase | 
+| Project Developement Phase | Completed |
